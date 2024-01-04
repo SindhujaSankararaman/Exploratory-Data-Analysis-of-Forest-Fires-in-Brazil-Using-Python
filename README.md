@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Forest Fires in Brazil Using Python
 
 Project Overview:
-In this EDA project, I explored a dataset obtained from Kaggle, which contained information about forest fires in the Amazon rainforest in Brazil. The dataset spans ten years, from 1998 to 2017, and provides data on the total number of forest fires occurring in different Brazilian states.
+In this EDA project, I explored a dataset obtained from Kaggle, which contained information about forest fires in the Amazon rainforest in Brazil. The dataset spans ten years, from 1998 to 2017, and provides data on the total number of forest fires occurred in different Brazilian states.
 
 
 Objectives: 
